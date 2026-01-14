@@ -1,0 +1,23 @@
+# Large data files (too big for GitHub)
+trending_yt_videos_113_countries.csv
+trending_yt_videos_113_countries.rar
+trending_yt_videos_113_countries.zip
+
+# Keep sample and small CSV files
+!yt_trending_sample.csv
+!category_stats.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
