@@ -1,0 +1,10 @@
+# Dark theme shared with the custom styles in app.py
+[theme]
+base = "dark"
+primaryColor = "#e66767"
+backgroundColor = "#0d0d0d"
+secondaryBackgroundColor = "#1a1a19"
+textColor = "#f0efec"
+
+[client]
+toolbarMode = "minimal"
